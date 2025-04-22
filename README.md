@@ -21,7 +21,7 @@ Ainsi, si les deux empreintes sont **identiques**, les fichiers le sont aussi.
 
 ---
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/) — pour l’interface utilisateur
