@@ -23,11 +23,33 @@ Ainsi, si les deux empreintes sont **identiques**, les fichiers le sont aussi.
 
 ##  Technologies utilisées
 
-- [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/) — pour l’interface utilisateur
-- [hashlib](https://docs.python.org/3/library/hashlib.html) — pour le calcul cryptographique
+- Python
+- Streamlit — pour l’interface utilisateur
+- hashlib — pour le calcul cryptographique
 
 ---
 
 ##  Structure du projet
 
+.
+├── app.py                     # Interface utilisateur Streamlit  
+├── check_authenticity.py     # Fonctions de calcul et de comparaison de hash  
+├── README.md                  # Ce fichier
+
+---
+
+##  Lancer l’application 
+- https://docsautenticityapp.streamlit.app/ 
+
+###  Prérequis
+
+- Python 3.11 installé
+- Streamlit installé :  
+  `pip install streamlit`
+
+### Exécution
+
+Dans le terminal :
+
+```bash
+streamlit run app.py
