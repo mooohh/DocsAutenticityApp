@@ -31,7 +31,7 @@ Ainsi, si les deux empreintes sont **identiques**, les fichiers le sont aussi.
 
 ##  Structure du projet
 
-.
+
 ├── app.py                     # Interface utilisateur Streamlit  
 ├── check_authenticity.py     # Fonctions de calcul et de comparaison de hash  
 ├── README.md                  # Ce fichier
