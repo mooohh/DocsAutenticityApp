@@ -22,7 +22,7 @@ st.sidebar.markdown(
 )
 st.sidebar.markdown(
     """
-    - [GitHub](https://github.com/mooohh/DocsAutenticityApp/blob/master/app.py)
+    - [GitHub](https://github.com/mooohh/DocsAutenticityApp/blob/master)
     """
 )
 
