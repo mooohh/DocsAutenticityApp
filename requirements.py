@@ -14,6 +14,7 @@ charset-normalizer==3.4.1
 click==8.1.8
 contourpy==1.3.1
 cycler==0.12.1
+Deprecated==1.2.18
 distro==1.9.0
 dnspython==2.7.0
 email_validator==2.2.0
@@ -32,6 +33,7 @@ joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.8
+lxml==5.4.0
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 multidict==6.3.2
@@ -39,8 +41,10 @@ narwhals==1.34.0
 numpy==2.2.4
 openai==0.27.8
 openpyxl==3.1.5
+outcome==1.3.0.post0
 packaging==24.2
 pandas==2.2.3
+pikepdf==9.7.0
 pillow==11.1.0
 propcache==0.3.1
 protobuf==5.29.4
@@ -51,6 +55,7 @@ pydeck==0.9.1
 PyMuPDF==1.25.5
 pyparsing==3.2.3
 PyPDF2==3.0.1
+PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
 referencing==0.36.2
@@ -60,9 +65,11 @@ rpds-py==0.24.0
 scikit-learn==1.6.1
 scipy==1.15.2
 seaborn==0.13.2
+selenium==4.31.0
 six==1.17.0
 smmap==5.0.2
 sniffio==1.3.1
+sortedcontainers==2.4.0
 soupsieve==2.6
 streamlit==1.44.1
 tenacity==9.1.2
@@ -70,9 +77,14 @@ threadpoolctl==3.6.0
 toml==0.10.2
 tornado==6.4.2
 tqdm==4.67.1
+trio==0.30.0
+trio-websocket==0.12.2
 typing-inspection==0.4.0
 typing_extensions==4.13.1
 tzdata==2025.2
 urllib3==2.3.0
 watchdog==6.0.0
+websocket-client==1.8.0
+wrapt==1.17.2
+wsproto==1.2.0
 yarl==1.19.0
